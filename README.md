@@ -1,6 +1,6 @@
 # QuantMonitor.net Open source Monitoring Agent, now needs rewrite for free 3rd party monitoring services like https://cronitor.io/ or other alternatives.
 
-
+Complete manual how it works and how to use: https://github.com/quantmonitornet/Tradestation-Agent/blob/main/QuantMonitor%20agent%20guide.pdf
 
 # Description of the Tradestation monitoring agent 
 
